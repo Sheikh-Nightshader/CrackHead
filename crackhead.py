@@ -3,7 +3,6 @@ import base64
 import argparse
 from colorama import Fore, Style, init
 
-# Initialize colorama
 init(autoreset=True)
 
 def hash_password(password, algorithm='md5'):
@@ -53,7 +52,6 @@ def main():
 
     args = parser.parse_args()
 
-    # Print the banner
     print_banner()
 
     cracked_password = crack_hash(args.target_hash, args.algorithm, args.dictionary_file)
