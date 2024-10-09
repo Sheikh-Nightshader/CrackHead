@@ -36,7 +36,7 @@ def print_banner():
     banner = f"""
 {Fore.CYAN}#####################################################
 #                                                   #
-# {Fore.GREEN}   Sheikh Nightshader's Crackhead Tool            {Fore.CYAN}#
+# {Fore.GREEN}   Sheikh Nightshader's Crackhead Tool             {Fore.CYAN}#
 # {Fore.YELLOW}  Crack MD5, SHA1, SHA256, SHA512, and Base64     {Fore.CYAN}#
 # {Fore.MAGENTA}       Password Cracker & Encoder/Decoder         {Fore.CYAN}#
 #                                                   #
