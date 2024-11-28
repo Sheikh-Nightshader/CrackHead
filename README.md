@@ -1,3 +1,4 @@
+*Updated 
 CrackHead is a Multi purpose hash cracking tool used to crack password hashes using dictionary and Bruteforce attacks.
 
 
